@@ -1,0 +1,28 @@
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+**/__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+.env
+
+# R
+.Rproj.user/
+.Rhistory
+
+# Raw data files
+data/raw/*.sav
+data/raw/*.dta
