@@ -26,3 +26,7 @@ venv/
 # Raw data files
 data/raw/*.sav
 data/raw/*.dta
+data/raw/*.csv
+data/processed/*.csv
+data/processed/*.sav
+data/processed/*.dta
